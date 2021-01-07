@@ -1,0 +1,575 @@
+Date,Name,Departure_original,Arrival_original,Notes,Departure_corrected,Arrival_corrected,Departure_country,Arrival_country
+2020-10-11 00:00:00,Alexandrov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2019-10-29 00:00:00,Alexandrov,Nizhny Novgorod,Moscow,,Nizhniy Novgorod,Moscow,RU,RU
+2019-10-28 00:00:00,Alexandrov,Moscow,Nizhny Novgorod,,Moscow,Nizhniy Novgorod,RU,RU
+2019-07-30 00:00:00,Alexandrov,Kirov,Moscow,,Kirov,Moscow,RU,RU
+2019-05-25 00:00:00,Alexandrov,Magnitogorsk,Moscow,,Magnitogorsk,Moscow,RU,RU
+2019-05-21 00:00:00,Alexandrov,Moscow,Magnitogorsk,train,Moscow,Magnitogorsk,RU,RU
+2019-01-25 00:00:00,Alexandrov,Yoshkar Ola,Moscow,,Yoshkar-Ola,Moscow,RU,RU
+2019-01-13 00:00:00,Alexandrov,Moscow,Yoshkar Ola,,Moscow,Yoshkar-Ola,RU,RU
+2017-09-18 00:00:00,Alexandrov,Omsk,Moscow,,Omsk,Moscow,RU,RU
+2017-04-07 00:00:00,Alexandrov,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2017-02-04 00:00:00,Alexandrov,Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2017-02-02 00:00:00,Alexandrov,Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2015-05-17 00:00:00,Alexandrov,Moscow,Minsk,B2988,Moscow,Minsk,RU,BY
+2015-03-29 00:00:00,Alexandrov,Barnaul,Moscow,UN2334,Barnaul,Moscow,RU,RU
+2015-02-21 00:00:00,Alexandrov,Rostov,Moscow,,Rostov,Moscow,RU,RU
+2015-02-19 00:00:00,Alexandrov,Moscow,Rostov,,Moscow,Rostov,RU,RU
+2014-10-22 00:00:00,Alexandrov,Moscow,Omsk,UT345,Moscow,Omsk,RU,RU
+2014-09-13 00:00:00,Alexandrov,Barnaul,Moscow,S7218,Barnaul,Moscow,RU,RU
+2014-10-09 00:00:00,Alexandrov,Moscow,Barnaul,S7217,Moscow,Barnaul,RU,RU
+2014-02-08 00:00:00,Alexandrov,Vladikavkaz,Moscow,UT396,Vladikavkaz,Moscow,RU,RU
+2014-05-24 00:00:00,Alexandrov,Nizhnevo,Moscow,SU1471,Barnaul,Moscow,RU,RU
+2014-08-05 00:00:00,Alexandrov,Mahachkala,Moscow,UT558,Makhachkala,Moscow,RU,RU
+2014-05-03 00:00:00,Alexandrov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2014-03-17 00:00:00,Alexandrov,Moscow,Rostov,,Moscow,Rostov,RU,RU
+2014-02-16 00:00:00,Alexandrov,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2014-01-04 00:00:00,Alexandrov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2013-12-31 00:00:00,Alexandrov,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2013-11-05 00:00:00,Alexandrov,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2013-08-19 00:00:00,Alexandrov,Moscow,Krasnodar,,Moscow,Krasnodar,RU,RU
+2013-06-22 00:00:00,Alexandrov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2013-06-21 00:00:00,Alexandrov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2012-03-14 00:00:00,Alexandrov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2012-03-09 00:00:00,Alexandrov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2012-02-20 00:00:00,Alexandrov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2011-11-30 00:00:00,Alexandrov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2011-11-26 00:00:00,Alexandrov,Krasnodar,Moscow,,Krasnodar,Moscow,RU,RU
+2011-11-22 00:00:00,Alexandrov,Moscow,Krasnodar,,Moscow,Krasnodar,RU,RU
+2011-05-28 00:00:00,Alexandrov,Astrakhan,Moscow,,Astrakhan,Moscow,RU,RU
+2011-05-16 00:00:00,Alexandrov,Moscow,Astrakhan,,Moscow,Astrakhan,RU,RU
+2020-08-24 00:00:00,"""Frolov"" (Alexandrov)",Gorno-Altaysk,Moscow,,Gorno-Altaysk,Moscow,RU,RU
+2020-08-21 00:00:00,"""Frolov"" (Alexandrov)",Tomsk,Moscow,отказ,Tomsk,Moscow,RU,RU
+2020-08-13 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Novosibirsk,,Moscow,Novosibirsk,RU,RU
+2020-07-12 00:00:00,"""Frolov"" (Alexandrov)",Sochi,Moscow,,Sochi,Moscow,RU,RU
+2020-07-11 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Sochi,,Moscow,Sochi,RU,RU
+2020-07-05 00:00:00,"""Frolov"" (Alexandrov)",Kaliningrad,Moscow,,Kaliningrad,Moscow,RU,RU
+2020-07-03 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Kaliningrad,,Moscow,Kaliningrad,RU,RU
+2020-02-26 00:00:00,"""Frolov"" (Alexandrov)",Sochi,Moscow,,Sochi,Moscow,RU,RU
+2020-02-26 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Sochi,,Moscow,Sochi,RU,RU
+2020-01-29 00:00:00,"""Frolov"" (Alexandrov)",Sochi,Moscow,,Sochi,Moscow,RU,RU
+2020-01-29 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Sochi,,Moscow,Sochi,RU,RU
+2020-01-24 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Sochi,отказ,Moscow,Sochi,RU,RU
+2020-01-19 00:00:00,"""Frolov"" (Alexandrov)",Sochi,Moscow,likely отказ,Sochi,Moscow,RU,RU
+2020-01-19 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Sochi,,Moscow,Sochi,RU,RU
+2019-04-16 00:00:00,"""Frolov"" (Alexandrov)",Sochi,Moscow,,Sochi,Moscow,RU,RU
+2019-04-16 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Sochi,,Moscow,Sochi,RU,RU
+2019-04-10 00:00:00,"""Frolov"" (Alexandrov)",Sochi,Moscow,,Sochi,Moscow,RU,RU
+2019-03-01 00:00:00,"""Frolov"" (Alexandrov)",Sochi,Moscow,,Sochi,Moscow,RU,RU
+2019-02-23 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Sochi,,Moscow,Sochi,RU,RU
+2017-06-10 00:00:00,"""Frolov"" (Alexandrov)",Perm,Moscow,,Perm,Moscow,RU,RU
+2017-06-08 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Perm,,Moscow,Perm,RU,RU
+2017-04-29 00:00:00,"""Frolov"" (Alexandrov)",Astrakhan,Moscow,,Astrakhan,Moscow,RU,RU
+2017-04-27 00:00:00,"""Frolov"" (Alexandrov)",Moscos,Astrakhan,,Moscow,Astrakhan,RU,RU
+2017-04-16 00:00:00,"""Frolov"" (Alexandrov)",Chelyabinsk,Moscow,,Chelyabinsk,Moscow,RU,RU
+2017-04-14 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Chelyabinsk,,Moscow,Chelyabinsk,RU,RU
+2017-03-19 00:00:00,"""Frolov"" (Alexandrov)",Novosibirsk,Moscow,,Novosibirsk,Moscow,RU,RU
+2017-03-18 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Novosibirsk,,Moscow,Novosibirsk,RU,RU
+2017-03-06 00:00:00,"""Frolov"" (Alexandrov)",Nizhny Novgorod,Moscow,Train,Nizhniy Novgorod,Moscow,RU,RU
+2017-03-05 00:00:00,"""Frolov"" (Alexandrov)",Kazan,Nizhniy Novgorod,,Kazan,Nizhniy Novgorod,RU,RU
+2017-03-05 00:00:00,"""Frolov"" (Alexandrov)",Ufa,Kazan,,Ufa,Kazan,RU,RU
+2017-03-04 00:00:00,"""Frolov"" (Alexandrov)",Samara,Ufa,,Samara,Ufa,RU,RU
+2017-03-02 00:00:00,"""Frolov"" (Alexandrov)",Moscow,Samara,Train,Moscow,Samara,RU,RU
+2020-03-20 00:00:00,Osipov,Yoshkar Ola,Moscow,,Yoshkar-Ola,Moscow,RU,RU
+2020-03-10 00:00:00,Osipov,Moscow,Yoshkar Ola,,Moscow,Yoshkar-Ola,RU,RU
+2019-03-12 00:00:00,Osipov,Sochi,Moscow,,Sochi,Moscow,RU,RU
+2019-03-11 00:00:00,Osipov,Moscow,Sochi,,Moscow,Sochi,RU,RU
+2017-10-11 00:00:00,Osipov,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2017-10-10 00:00:00,Osipov,Moscow,Volgograd,,Moscow,Volgograd,RU,RU
+2017-04-12 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2017-04-06 00:00:00,Osipov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2017-01-31 00:00:00,Osipov,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2017-01-25 00:00:00,Osipov,Moscow,Volgograd,,Moscow,Volgograd,RU,RU
+2016-10-30 00:00:00,Osipov,Belgorod,Moscow,,Belgorod,Moscow,RU,RU
+2016-10-27 00:00:00,Osipov,Moscow,Belgorod,,Moscow,Belgorod,RU,RU
+2016-08-31 00:00:00,Osipov,Moscow,Simferopol,,Moscow,Simferopol,RU,UA
+2016-05-26 00:00:00,Osipov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2016-05-14 00:00:00,Osipov,Orenburg,Moscow,,Orenburg,Moscow,RU,RU
+2016-05-11 00:00:00,Osipov,Moscow,Orenburg,,Moscow,Orenburg,RU,RU
+2016-04-13 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2016-03-31 00:00:00,Osipov,Moscow,Mahachkala,UT557,Moscow,Makhachkala,RU,RU
+2015-08-03 00:00:00,Osipov,Rostov,Moscow,OP4368,Rostov,Moscow,RU,RU
+2015-07-30 00:00:00,Osipov,Moscow,Rostov,OP4491,Moscow,Rostov,RU,RU
+2015-06-23 00:00:00,Osipov,Mahachkala,Moscow,UT558,Makhachkala,Moscow,RU,RU
+2015-06-19 00:00:00,Osipov,Moscow,Mahachkala,UT559,Moscow,Makhachkala,RU,RU
+2015-03-26 00:00:00,Osipov,Vladikavkaz,Moscow,UT396,Vladikavkaz,Moscow,RU,RU
+2015-03-20 00:00:00,Osipov,Moscow,Vladikavkaz,UT395,Moscow,Vladikavkaz,RU,RU
+2015-01-25 00:00:00,Osipov,Mahachkala,Moscow,OP4558,Makhachkala,Moscow,RU,RU
+2015-01-22 00:00:00,Osipov,Moscow,Mahachkala,OP4557,Moscow,Makhachkala,RU,RU
+2015-01-17 00:00:00,Osipov,Mahachkala,Moscow,OP4558,Makhachkala,Moscow,RU,RU
+2015-01-15 00:00:00,Osipov,Moscow,Mahachkala,OP4557,Moscow,Makhachkala,RU,RU
+2014-10-16 00:00:00,Osipov,Moscow,Kursk,UT173,Moscow,Kursk,RU,RU
+2014-10-09 00:00:00,Osipov,Simferopol,Moscow,,Simferopol,Moscow,UA,RU
+2014-10-04 00:00:00,Osipov,Moscow,Simferopol,NN333,Moscow,Simferopol,RU,UA
+2014-09-09 00:00:00,Osipov,Vladikavkaz,Moscow,UT396,Vladikavkaz,Moscow,RU,RU
+2014-09-05 00:00:00,Osipov,Moscow,Vladikavkaz,UT395,Moscow,Vladikavkaz,RU,RU
+2014-08-01 00:00:00,Osipov,Mineralnye Vody,Moscow,UT374,Mineralnye Vody,Moscow,RU,RU
+2014-07-31 00:00:00,Osipov,Mineralnye Vody,Moscow,UT374,Mineralnye Vody,Moscow,RU,RU
+2014-07-22 00:00:00,Osipov,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2014-06-28 00:00:00,Osipov,St. Petersburg,Moscow,UT382,Saint Petersburg,Moscow,RU,RU
+2014-06-26 00:00:00,Osipov,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2014-06-22 00:00:00,Osipov,Voronezh,Moscow,UT198,Voronezh,Moscow,RU,RU
+2014-06-21 00:00:00,Osipov,Moscow,Voronezh,UT281,Moscow,Voronezh,RU,RU
+2014-04-12 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2014-04-10 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2013-11-05 00:00:00,Osipov,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2013-10-29 00:00:00,Osipov,Moscow,Volgograd,,Moscow,Volgograd,RU,RU
+2013-09-26 00:00:00,Osipov,Sochi,Moscow,,Sochi,Moscow,RU,RU
+2013-09-25 00:00:00,Osipov,Moscow,Sochi,,Moscow,Sochi,RU,RU
+2013-09-02 00:00:00,Osipov,Nalchik,Moscow,,Nal’Chik,Moscow,,RU
+2013-08-30 00:00:00,Osipov,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2013-08-22 00:00:00,Osipov,Sochi,Moscow,,Sochi,Moscow,RU,RU
+2013-08-21 00:00:00,Osipov,Moscow,Sochi,,Moscow,Sochi,RU,RU
+2013-07-15 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2013-07-13 00:00:00,Osipov,Moscow,Nalchik,,Moscow,Nal’Chik,RU,
+2013-06-18 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2013-06-17 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2013-06-05 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2013-06-04 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2013-05-22 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2013-05-21 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2013-05-11 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2013-05-10 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2013-04-30 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2013-04-29 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2013-04-20 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2013-04-18 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2013-04-11 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2013-04-01 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2013-03-06 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2013-03-05 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2013-02-27 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2012-12-09 00:00:00,Osipov,Vladikavkaz ,Moscow,,Vladikavkaz,Moscow,RU,RU
+2012-12-06 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2012-10-22 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2012-10-18 00:00:00,Osipov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2012-09-01 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2012-08-31 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2012-08-26 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2012-07-29 00:00:00,Osipov,Osnovnoy,Moscow,,Osnovnoy,Moscow,,RU
+2012-07-26 00:00:00,Osipov,Moscow,Osnovnoy,,Moscow,Osnovnoy,RU,
+2012-07-21 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2012-07-18 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2012-07-01 00:00:00,Osipov,Anapa,Moscow,,Anapa,Moscow,RU,RU
+2012-06-14 00:00:00,Osipov,Moscow,Anapa,,Moscow,Anapa,RU,RU
+2012-05-21 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2012-05-12 00:00:00,Osipov,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2012-03-14 00:00:00,Osipov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2012-03-09 00:00:00,Osipov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2012-02-01 00:00:00,Osipov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2012-02-01 00:00:00,Osipov,Nalchik,Moscow,,Nal’Chik,Moscow,,RU
+2012-01-31 00:00:00,Osipov,Nalchik,Moscow,,Nal’Chik,Moscow,,RU
+2012-01-27 00:00:00,Osipov,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2012-01-07 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2011-12-09 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2011-12-06 00:00:00,Osipov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2011-12-01 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2011-11-30 00:00:00,Osipov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2011-10-17 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2011-10-16 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2011-09-25 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2011-09-23 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2011-08-10 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2011-08-03 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2011-06-27 00:00:00,Osipov,Anapa,Moscow,,Anapa,Moscow,RU,RU
+2011-06-16 00:00:00,Osipov,Moscow,MOS - Gelendzhik,,Moscow,Gelendzhik,RU,RU
+2011-05-19 00:00:00,Osipov,Grozny,Moscow,,Groznyy,Moscow,RU,RU
+2011-05-18 00:00:00,Osipov,Moscow,Grozny,,Moscow,Groznyy,RU,RU
+2011-03-31 00:00:00,Osipov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2011-03-29 00:00:00,Osipov,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2011-01-06 00:00:00,Osipov,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2011-01-02 00:00:00,Osipov,Moscow,Volgograd,,Moscow,Volgograd,RU,RU
+2010-11-05 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2010-10-09 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2010-10-02 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2010-09-20 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2010-09-17 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2010-07-22 00:00:00,Osipov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2010-07-02 00:00:00,Osipov,Anapa,Moscow,,Anapa,Moscow,RU,RU
+2010-06-14 00:00:00,Osipov,Moscow,Anapa,,Moscow,Anapa,RU,RU
+2010-06-05 00:00:00,Osipov,Stavropol,Moscow,,Stavropol’,Moscow,RU,RU
+2010-05-31 00:00:00,Osipov,Moscow,Stavropol,,Moscow,Stavropol’,RU,RU
+2010-03-18 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2010-03-13 00:00:00,Osipov,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2010-01-27 00:00:00,Osipov,Stavropol,Moscow,,Stavropol’,Moscow,RU,RU
+2010-01-22 00:00:00,Osipov,Moscow,Stavropol,,Moscow,Stavropol’,RU,RU
+2009-11-21 00:00:00,Osipov,Krasnodar,Moscow,,Krasnodar,Moscow,RU,RU
+2009-11-17 00:00:00,Osipov,Moscow,Krasnodar,,Moscow,Krasnodar,RU,RU
+2009-11-05 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2009-10-08 00:00:00,Osipov,Moscow,Ufa,,Moscow,Ufa,RU,RU
+2009-09-05 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2009-09-03 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2009-08-30 00:00:00,Osipov,Sochi,Moscow,,Sochi,Moscow,RU,RU
+2009-08-17 00:00:00,Osipov,Moscow,Moscow,,Moscow,Moscow,RU,RU
+2009-07-13 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2009-07-11 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2009-05-25 00:00:00,Osipov,Krasnodar,Moscow,,Krasnodar,Moscow,RU,RU
+2009-05-18 00:00:00,Osipov,Moscow,Krasnodar,,Moscow,Krasnodar,RU,RU
+2009-04-10 00:00:00,Osipov,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2009-04-06 00:00:00,Osipov,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2009-02-18 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2009-01-19 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2009-01-15 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2008-11-29 00:00:00,Osipov,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2008-11-26 00:00:00,Osipov,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2008-11-19 00:00:00,Osipov,Moscow,Krasnodar,,Moscow,Krasnodar,RU,RU
+2008-09-27 00:00:00,Osipov,Anapa,Moscow,,Anapa,Moscow,RU,RU
+2008-09-17 00:00:00,Osipov,Moscow,Vityazevo,,Moscow,Anapa,RU,RU
+2008-09-09 00:00:00,Osipov,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2020-08-21 00:00:00,"""Spiridonov"" (Osipov)",Tomsk,Moscow,отказ,Tomsk,Moscow,RU,RU
+2020-08-13 00:00:00,"""Spiridonov"" (Osipov)",Moscow,Novosibirsk,,Moscow,Novosibirsk,RU,RU
+2020-01-21 00:00:00,"""Spiridonov"" (Osipov)",Moscow,Sochi,,Moscow,Sochi,RU,RU
+2019-04-08 00:00:00,"""Spiridonov"" (Osipov)",Stavropol,Moscow,,Stavropol’,Moscow,RU,RU
+2019-04-07 00:00:00,"""Spiridonov"" (Osipov)",Moscow,Stavropol,,Moscow,Stavropol’,RU,RU
+2019-03-22 00:00:00,"""Spiridonov"" (Osipov)",Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2019-03-20 00:00:00,"""Spiridonov"" (Osipov)",Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2019-03-13 00:00:00,"""Spiridonov"" (Osipov)",Sochi,Moscow,train,Sochi,Moscow,RU,RU
+2018-08-24 00:00:00,"""Spiridonov"" (Osipov)",Velsk,Moscow,train,Vel’Sk,Moscow,,RU
+2018-08-20 00:00:00,"""Spiridonov"" (Osipov)",Moscow,Velsk,train,Moscow,Vel’Sk,RU,
+2017-05-21 00:00:00,"""Spiridonov"" (Osipov)",Ulyanovsk,Moscow,,Ulyanovsk,Moscow,RU,RU
+2017-05-19 00:00:00,"""Spiridonov"" (Osipov)",Moscow,Penza,,Moscow,Penza,RU,RU
+2020-10-02 00:00:00,Kudryavtsev,Omsk,Moscow,,Omsk,Moscow,RU,RU
+2020-09-29 00:00:00,Kudryavtsev,Moscow,Omsk,"Traveling under cover name ""Sokolov""",Moscow,Omsk,RU,RU
+2020-08-26 00:00:00,Kudryavtsev,Omsk,Moscow,,Omsk,Moscow,RU,RU
+2020-08-25 00:00:00,Kudryavtsev,Moscow,Omsk,,Moscow,Omsk,RU,RU
+2020-08-18 00:00:00,Kudryavtsev,Sochi,Moscow,"Traveling under cover name ""Sokolov""",Sochi,Moscow,RU,RU
+2020-08-18 00:00:00,Kudryavtsev,Moscow,Sochi,"Traveling under cover name ""Sokolov""",Moscow,Sochi,RU,RU
+2020-03-09 00:00:00,Kudryavtsev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2020-03-07 00:00:00,Kudryavtsev,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2019-10-12 00:00:00,Kudryavtsev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2019-10-09 00:00:00,Kudryavtsev,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2019-07-27 00:00:00,Kudryavtsev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2019-07-23 00:00:00,Kudryavtsev,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2018-09-16 00:00:00,Kudryavtsev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2018-09-13 00:00:00,Kudryavtsev,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2017-09-17 00:00:00,Kudryavtsev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2017-09-15 00:00:00,Kudryavtsev,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2017-04-06 00:00:00,Kudryavtsev,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2017-01-25 00:00:00,Kudryavtsev,Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2017-01-23 00:00:00,Kudryavtsev,Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2017-01-18 00:00:00,Kudryavtsev,Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2017-01-16 00:00:00,Kudryavtsev,Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2017-01-15 00:00:00,Kudryavtsev,Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2016-12-01 00:00:00,Kudryavtsev,Nizhny Novgorod,Moscow,,Nizhniy Novgorod,Moscow,RU,RU
+2016-11-29 00:00:00,Kudryavtsev,Moscow,Nizhny Novgorod,,Moscow,Nizhniy Novgorod,RU,RU
+2016-09-24 00:00:00,Kudryavtsev,Nizhny Novgorod,Moscow,,Nizhniy Novgorod,Moscow,RU,RU
+2016-09-22 00:00:00,Kudryavtsev,Moscow,Nizhny Novgorod,,Moscow,Nizhniy Novgorod,RU,RU
+2016-09-06 00:00:00,Kudryavtsev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2016-09-02 00:00:00,Kudryavtsev,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2016-07-26 00:00:00,Kudryavtsev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2016-07-23 00:00:00,Kudryavtsev,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2016-03-16 00:00:00,Kudryavtsev,Mahachkala,Moscow,UT558,Makhachkala,Moscow,RU,RU
+2016-11-03 00:00:00,Kudryavtsev,Moscow,Mahachkala,UT447,Moscow,Makhachkala,RU,RU
+2015-04-11 00:00:00,Kudryavtsev,Moscow,Vladikavkaz,UT395,Moscow,Vladikavkaz,RU,RU
+2015-08-09 00:00:00,Kudryavtsev,Moscow,Chelyabinsk,S717,Moscow,Chelyabinsk,RU,RU
+2015-12-07 00:00:00,Kudryavtsev,Mahachkala,Moscow,UT558,Makhachkala,Moscow,RU,RU
+2015-11-07 00:00:00,Kudryavtsev,Moscow,Mahachkala,IN129,Moscow,Makhachkala,RU,RU
+2015-06-28 00:00:00,Kudryavtsev,Vladikavkaz,Moscow,UT396,Vladikavkaz,Moscow,RU,RU
+2015-03-26 00:00:00,Kudryavtsev,Moscow,Kaliningrad,UT389,Moscow,Kaliningrad,RU,RU
+2014-09-13 00:00:00,Kudryavtsev,Barnaul,Moscow,S7218,Barnaul,Moscow,RU,RU
+2014-10-09 00:00:00,Kudryavtsev,Moscow,Barnaul,S7217,Moscow,Barnaul,RU,RU
+2014-03-09 00:00:00,Kudryavtsev,Barnaul,Moscow,S7218,Barnaul,Moscow,RU,RU
+2014-08-27 00:00:00,Kudryavtsev,Moscow,Barnaul,S7217,Moscow,Barnaul,RU,RU
+2014-06-24 00:00:00,Kudryavtsev,Mahachkala,Moscow,UT558,Makhachkala,Moscow,RU,RU
+2014-06-21 00:00:00,Kudryavtsev,Moscow,Mahachkala,IN139,Moscow,Makhachkala,RU,RU
+2014-09-06 00:00:00,Kudryavtsev,Barnaul,Moscow,UT198,Barnaul,Moscow,RU,RU
+2014-05-15 00:00:00,Kudryavtsev,Mahachkala,Moscow,IN110,Makhachkala,Moscow,RU,RU
+2014-05-13 00:00:00,Kudryavtsev,Moscow,Mahachkala,NN163,Moscow,Makhachkala,RU,RU
+2014-08-05 00:00:00,Kudryavtsev,Mahachkala,Moscow,UT558,Makhachkala,Moscow,RU,RU
+2014-05-03 00:00:00,Kudryavtsev,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2014-03-17 00:00:00,Kudryavtsev,Moscow,Rostov,,Moscow,Rostov,RU,RU
+2013-07-13 00:00:00,Kudryavtsev,Moscow,Nalchik,UT479,Moscow,Nal’Chik,RU,
+2020-08-24 00:00:00,Panyaev,Gorno-Altaysk,Moscow,,Gorno-Altaysk,Moscow,RU,RU
+2020-08-21 00:00:00,Panyaev,Tomsk,Moscow,отказ,Tomsk,Moscow,RU,RU
+2020-08-13 00:00:00,Panyaev,Moscow,Novosibirsk,,Moscow,Novosibirsk,RU,RU
+2020-07-05 00:00:00,Panyaev,Kaliningrad,Moscow,,Kaliningrad,Moscow,RU,RU
+2020-07-02 00:00:00,Panyaev,Moscow,Kaliningrad,,Moscow,Kaliningrad,RU,RU
+2019-07-14 00:00:00,Panyaev,Sochi,Moscow,train,Sochi,Moscow,RU,RU
+2019-06-28 00:00:00,Panyaev,Moscow,Sochi,train,Moscow,Sochi,RU,RU
+2019-04-07 00:00:00,Panyaev,Rostov,Moscow,,Rostov,Moscow,RU,RU
+2019-04-06 00:00:00,Panyaev,Moscow,Rostov,,Moscow,Rostov,RU,RU
+2019-02-03 00:00:00,Panyaev,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2019-02-01 00:00:00,Panyaev,Moscow,St. Petersburg,bought two tickets at different times,Moscow,Saint Petersburg,RU,RU
+2018-11-18 00:00:00,Panyaev,Rostov,Moscow,,Rostov,Moscow,RU,RU
+2018-11-17 00:00:00,Panyaev,Moscow,Rostov,,Moscow,Rostov,RU,RU
+2018-05-21 00:00:00,Panyaev,Ufa,Moscow,,Ufa,Moscow,RU,RU
+2018-05-20 00:00:00,Panyaev,Moscow,Ufa,,Moscow,Ufa,RU,RU
+2017-12-11 00:00:00,Panyaev,Novokuznetsk,Moscow,,Novokuznetsk,Moscow,RU,RU
+2017-12-07 00:00:00,Panyaev,Moscow,Novokuznetsk,,Moscow,Novokuznetsk,RU,RU
+2017-10-02 00:00:00,Panyaev,Arkhangelsk,Moscow,,Arkhangel’Sk,Moscow,,RU
+2017-09-30 00:00:00,Panyaev,Moscow,Arkhangelsk,,Moscow,Arkhangel’Sk,RU,
+2017-09-25 00:00:00,Panyaev,Vladivostok,Moscow,,Vladivostok,Moscow,RU,RU
+2017-09-21 00:00:00,Panyaev,Moscow,Vladivostok,,Moscow,Vladivostok,RU,RU
+2017-09-18 00:00:00,Panyaev,Omsk,Moscow,,Omsk,Moscow,RU,RU
+2017-09-16 00:00:00,Panyaev,Moscow,Omsk,,Moscow,Omsk,RU,RU
+2017-06-10 00:00:00,Panyaev,Perm,Moscow,,Perm,Moscow,RU,RU
+2017-06-08 00:00:00,Panyaev,Moscow,Perm,,Moscow,Perm,RU,RU
+2017-04-29 00:00:00,Panyaev,Astrakhan,Moscow,,Astrakhan,Moscow,RU,RU
+2017-04-27 00:00:00,Panyaev,Moscow,Astrakhan,,Moscow,Astrakhan,RU,RU
+2017-04-16 00:00:00,Panyaev,Chelyabinsk,Moscow,,Chelyabinsk,Moscow,RU,RU
+2017-04-14 00:00:00,Panyaev,Moscow,Chelyabinsk,,Moscow,Chelyabinsk,RU,RU
+2017-03-19 00:00:00,Panyaev,Novosibirsk,Moscow,,Novosibirsk,Moscow,RU,RU
+2017-03-18 00:00:00,Panyaev,Moscow,Novosibirsk,,Moscow,Novosibirsk,RU,RU
+2017-02-10 00:00:00,Panyaev,Simferopol,Moscow,,Simferopol,Moscow,UA,RU
+2017-02-09 00:00:00,Panyaev,Moscow,Simferopol,,Moscow,Simferopol,RU,UA
+2016-06-14 00:00:00,Panyaev,Sochi,Moscow,train,Sochi,Moscow,RU,RU
+2016-05-31 00:00:00,Panyaev,Moscow,Sochi,train,Moscow,Sochi,RU,RU
+2015-08-20 00:00:00,Panyaev,Krasnodar,Moscow,train,Krasnodar,Moscow,RU,RU
+2015-08-03 00:00:00,Panyaev,Moscow,Krasnodar,train,Moscow,Krasnodar,RU,RU
+2015-05-30 00:00:00,Panyaev,Penza,Moscow,train,Penza,Moscow,RU,RU
+2015-05-27 00:00:00,Panyaev,Moscow,Penza,train,Moscow,Penza,RU,RU
+2015-04-21 00:00:00,Panyaev,Kemerovo,Moscow,,Kemerovo,Moscow,RU,RU
+2015-04-19 00:00:00,Panyaev,Moscow,Kemerovo,,Moscow,Kemerovo,RU,RU
+2014-08-20 00:00:00,Panyaev,Minsk,Moscow,train,Minsk,Moscow,BY,RU
+2014-08-18 00:00:00,Panyaev,Moscow,Minsk,train,Moscow,Minsk,RU,BY
+2014-08-03 00:00:00,Panyaev,Krasnodar,Moscow,train,Krasnodar,Moscow,RU,RU
+2014-07-16 00:00:00,Panyaev,Moscow,Krasnodar,train,Moscow,Krasnodar,RU,RU
+2013-10-27 00:00:00,Panyaev,Penza,Moscow,train,Penza,Moscow,RU,RU
+2013-10-25 00:00:00,Panyaev,Moscow,Penza,train,Moscow,Penza,RU,RU
+2013-09-20 00:00:00,Panyaev,Makhachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2013-08-21 00:00:00,Panyaev,Moscow,Makhachkala,,Moscow,Makhachkala,RU,RU
+2013-08-09 00:00:00,Panyaev,Krasnodar,Moscow,train,Krasnodar,Moscow,RU,RU
+2013-08-07 00:00:00,Panyaev,Moscow,Krasnodar,train,Moscow,Krasnodar,RU,RU
+2013-07-29 00:00:00,Panyaev,Penza,Moscow,train,Penza,Moscow,RU,RU
+2013-07-21 00:00:00,Panyaev,Moscow,Penza,train,Moscow,Penza,RU,RU
+2012-08-27 00:00:00,Panyaev,Sochi,Moscow,train,Sochi,Moscow,RU,RU
+2012-08-11 00:00:00,Panyaev,Moscow,Sochi,отказ,Moscow,Sochi,RU,RU
+2012-06-28 00:00:00,Panyaev,Minsk,Moscow,train,Minsk,Moscow,BY,RU
+2012-04-19 00:00:00,Panyaev,Kaliningrad,Moscow,,Kaliningrad,Moscow,RU,RU
+2012-04-18 00:00:00,Panyaev,Moscow,Kaliningrad,,Moscow,Kaliningrad,RU,RU
+2012-03-21 00:00:00,Panyaev,Makhachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2012-03-21 00:00:00,Panyaev,Moscow,Makhachkala,,Moscow,Makhachkala,RU,RU
+2011-09-05 00:00:00,Panyaev,Anapa,Moscow,train,Anapa,Moscow,RU,RU
+2011-08-19 00:00:00,Panyaev,Moscow,Krasnodar,train,Moscow,Krasnodar,RU,RU
+2010-09-15 00:00:00,Panyaev,Krasnodar,Moscow,train,Krasnodar,Moscow,RU,RU
+2010-08-31 00:00:00,Panyaev,Moscow,Anapa,train,Moscow,Anapa,RU,RU
+2009-11-21 00:00:00,Panyaev,St. Petersburg,Moscow,train,Saint Petersburg,Moscow,RU,RU
+2009-11-20 00:00:00,Panyaev,Moscow,St. Petersburg,train,Moscow,Saint Petersburg,RU,RU
+2009-08-07 00:00:00,Panyaev,Novorossiysk,Moscow,,Novorossiysk,Moscow,RU,RU
+2009-07-22 00:00:00,Panyaev,Moscow,Novorossiysk,,Moscow,Novorossiysk,RU,RU
+2005-11-25 00:00:00,Panyaev,Krasnoyarsk,Moscow,,Krasnoyarsk,Moscow,RU,RU
+2005-11-22 00:00:00,Panyaev,Moscow,Krasnoyarsk,,Moscow,Krasnoyarsk,RU,RU
+2005-04-25 00:00:00,Panyaev,Krasnoyarsk,Moscow,,Krasnoyarsk,Moscow,RU,RU
+2005-04-20 00:00:00,Panyaev,Moscow,Krasnoyarsk,,Moscow,Krasnoyarsk,RU,RU
+2005-03-19 00:00:00,Panyaev,Krasnoyarsk,Moscow,,Krasnoyarsk,Moscow,RU,RU
+2005-03-13 00:00:00,Panyaev,Moscow,Krasnoyarsk,,Moscow,Krasnoyarsk,RU,RU
+2020-08-22 00:00:00,Tayakin,Gorno-Altaysk,Moscow,,Gorno-Altaysk,Moscow,RU,RU
+2020-08-21 00:00:00,Tayakin,Moscow,Gorno-Altaysk,,Moscow,Gorno-Altaysk,RU,RU
+2020-06-27 00:00:00,Tayakin,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2020-06-26 00:00:00,Tayakin,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2020-03-30 00:00:00,Tayakin,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2020-03-23 00:00:00,Tayakin,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2019-07-12 00:00:00,Tayakin,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2019-07-09 00:00:00,Tayakin,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2019-04-01 00:00:00,Tayakin,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2019-03-14 00:00:00,Tayakin,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2018-10-27 00:00:00,Tayakin,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2018-10-17 00:00:00,Tayakin,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2018-09-21 00:00:00,Tayakin,Volgograd,Moscow,,Volgograd,Moscow,RU,RU
+2018-09-09 00:00:00,Tayakin,Moscow,Volgograd,,Moscow,Volgograd,RU,RU
+2017-11-21 00:00:00,Tayakin,St. Petersburg,Moscow,,Saint Petersburg,Moscow,RU,RU
+2017-11-16 00:00:00,Tayakin,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2017-09-23 00:00:00,Tayakin,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2017-06-16 00:00:00,Tayakin,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2017-04-25 00:00:00,Tayakin,Moscow,Mineralnye Vody,,Moscow,Mineralnye Vody,RU,RU
+2017-04-11 00:00:00,Tayakin,Mineralnye Vody,Moscow,,Mineralnye Vody,Moscow,RU,RU
+2016-12-30 00:00:00,Tayakin,Mahachkala,Moscow,,Makhachkala,Moscow,RU,RU
+2016-12-29 00:00:00,Tayakin,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2016-12-28 00:00:00,Tayakin,Moscow,Mahachkala,,Moscow,Makhachkala,RU,RU
+2016-11-28 00:00:00,Tayakin,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2016-11-23 00:00:00,Tayakin,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2016-11-13 00:00:00,Tayakin,Vladikavkaz,Moscow,,Vladikavkaz,Moscow,RU,RU
+2016-11-11 00:00:00,Tayakin,Moscow,Vladikavkaz,,Moscow,Vladikavkaz,RU,RU
+2016-09-23 00:00:00,Tayakin,Moscow,St. Petersburg,,Moscow,Saint Petersburg,RU,RU
+2016-08-04 00:00:00,Tayakin,Mineralnye Vody,Moscow,IN136,Mineralnye Vody,Moscow,RU,RU
+2016-02-04 00:00:00,Tayakin,Moscow,Koltsovo,S753,Moscow,Yekaterinburg,RU,RU
+2015-12-24 00:00:00,Tayakin,Rostov,Moscow,UT368,Rostov,Moscow,RU,RU
+2015-11-20 00:00:00,Tayakin,Moscow,Murmansk,SU1316,Moscow,Murmansk,RU,RU
+2015-10-29 00:00:00,Tayakin,Tambov,Moscow,UT194,Tambov,Moscow,RU,RU
+2015-09-18 00:00:00,Tayakin,Moscow,Chelyabinsk,S717,Moscow,Chelyabinsk,RU,RU
+2015-06-28 00:00:00,Tayakin,Vladikavkaz,Moscow,UT396,Vladikavkaz,Moscow,RU,RU
+2015-06-23 00:00:00,Tayakin,Mahachkala,Moscow,UT558,Makhachkala,Moscow,RU,RU
+2015-06-19 00:00:00,Tayakin,Moscow,Mahachkala,UT559,Moscow,Makhachkala,RU,RU
+2015-07-05 00:00:00,Tayakin,Moscow,Simferopol,IN131,Moscow,Simferopol,RU,UA
+2014-10-22 00:00:00,Tayakin,Moscow,Omsk,UT345,Moscow,Omsk,RU,RU
+2014-10-16 00:00:00,Tayakin,Moscow,Kursk,UT173,Moscow,Kursk,RU,RU
+2019-07-30 00:00:00,Krivoshtekov,Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2019-07-29 00:00:00,Krivoshtekov,Moscow,Kirov,,Moscow,Kirov,RU,RU
+2019-06-26 00:00:00,Krivoshtekov,Voronezh,Moscow,,Voronezh,Moscow,RU,RU
+2019-06-24 00:00:00,Krivoshtekov,Moscow,Voronezh,,Moscow,Voronezh,RU,RU
+2019-02-28 00:00:00,Krivoshtekov,Yekaterinburg,Moscow,,Yekaterinburg,Moscow,RU,RU
+2019-02-26 00:00:00,Krivoshtekov,Moscow,Yekaterinburg,,Moscow,Yekaterinburg,RU,RU
+2017-07-27 00:00:00,Krivoshtekov,Sochi,Moscow,,Sochi,Moscow,RU,RU
+2017-07-13 00:00:00,Krivoshtekov,Moscow,Sochi,,Moscow,Sochi,RU,RU
+2017-07-11 00:00:00,Krivoshtekov,Moscow,Anapa,,Moscow,Anapa,RU,RU
+2017-05-21 00:00:00,Krivoshtekov,Ulyanovsk,Moscow,,Ulyanovsk,Moscow,RU,RU
+2017-05-19 00:00:00,Krivoshtekov,Moscow,Penza,,Moscow,Penza,RU,RU
+2017-05-05 00:00:00,Krivoshtekov,Simferopol,Moscow,,Simferopol,Moscow,UA,RU
+2017-05-02 00:00:00,Krivoshtekov,Moscow,Simferopol,,Moscow,Simferopol,RU,UA
+2017-03-06 00:00:00,Krivoshtekov,Nizhny Novgorod,Moscow,,Nizhniy Novgorod,Moscow,RU,RU
+2017-03-05 00:00:00,Krivoshtekov,Ufa,Kazan,,Ufa,Kazan,RU,RU
+2017-03-04 00:00:00,Krivoshtekov,Kurumoch,Ufa,,Samara,Ufa,RU,RU
+2017-03-02 00:00:00,Krivoshtekov,Moscow,Samara,,Moscow,Samara,RU,RU
+2017-02-19 00:00:00,Krivoshtekov,Tolmachevo,Moscow,,Novosibirsk,Moscow,RU,RU
+2017-02-17 00:00:00,Krivoshtekov,Moscow,Tolmachevo,,Moscow,Novosibirsk,RU,RU
+2017-02-08 00:00:00,Krivoshtekov,Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2017-02-07 00:00:00,Krivoshtekov,Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2017-02-03 00:00:00,Krivoshtekov,Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2017-02-02 00:00:00,Krivoshtekov,Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2017-01-25 00:00:00,Krivoshtekov,Kirov,Moscow,train,Kirov,Moscow,RU,RU
+2017-01-23 00:00:00,Krivoshtekov,Moscow,Kirov,train,Moscow,Kirov,RU,RU
+2016-07-29 00:00:00,Krivoshtekov,Kaliningrad,Moscow,,Kaliningrad,Moscow,RU,RU
+2016-07-26 00:00:00,Krivoshtekov,Moscow,Kaliningrad,,Moscow,Kaliningrad,RU,RU
+2014-07-06 00:00:00,Krivoshtekov,Tolmachevo,Moscow,U6103,Novosibirsk,Moscow,RU,RU
+2014-07-04 00:00:00,Krivoshtekov,Moscow,Tolmachevo,U6104,Moscow,Novosibirsk,RU,RU
+2020-11-10 11:40:00,Fedotov,ВЛАДИКАВКАЗ (БЕСЛАН),"ШЕРЕМЕТЬЕВО (МОСКВА), МОС",SU1043,Vladikavkaz,Moscow,RU,RU
+2020-08-10 17:50:00,Fedotov,"ВНУКОВО (МОСКВА), МОСКОВС",ВЛАДИКАВКАЗ (БЕСЛАН),UT395,Moscow,Vladikavkaz,RU,RU
+2018-07-26 07:00:00,Fedotov,ПЛАТОВ (С 25.11.2017) РОС,"ВНУКОВО (МОСКВА), МОСКОВС",SU6102,Rostov-Na-Donu,Moscow,,RU
+2018-05-30 10:00:00,Fedotov,"ВНУКОВО (МОСКВА), МОСКОВС",ПЛАТОВ (С 25.11.2017) РОС,SU6101,Moscow,Rostov-Na-Donu,RU,
+2019-05-28 21:35:00,Fedotov,ПЕНЗА 1,МОСКВА КАЗАНСКАЯ,Train,Penza,Moscow,RU,RU
+2019-05-27 20:40:00,Fedotov,МОСКВА КАЗАНСКАЯ,ПЕНЗА 1,Train,Moscow,Penza,RU,RU
+2018-08-31 18:13:00,Fedotov,МОСКВА ПАВЕЛЕЦКАЯ,САРАТОВ 1 ПАСС,Train,Moscow,Saratov,RU,RU
+2017-05-24 20:00:00,Fedotov,КАЗАНЬ ПАСС,МОСКВА КАЗАНСКАЯ,Train,Kazan,Moscow,RU,RU
+2017-04-23 13:30:00,Fedotov,МОСКВА БЕЛОРУССКАЯ,СМОЛЕНСК ЦЕНТРАЛЬНЫЙ,Train,Moscow,Smolensk,RU,RU
+2019-09-16 19:56:00,Shvets,МОСКВА РИЖСКАЯ,ЗАПАДНАЯ ДВИНА,ПОЕ:661А В:009 М:033,Moscow,Zapadnaja Dvina,RU,
+2014-12-25 22:29:00,Shvets,МОСКВА КУРСКАЯ,ЕССЕНТУКИ,ПОЕ:049А В:009 М:012,Moscow,Yessentuki,RU,RU
+2014-11-14 08:20:00,Shvets,МОСКВА КАЗАНСКАЯ,ЕССЕНТУКИ,ПОЕ:004С В:005 М:003,Moscow,Yessentuki,RU,RU
+2014-11-13 23:17:00,Shvets,ЗАПАДНАЯ ДВИНА,МОСКВА РИЖСКАЯ,ПОЕ:662А В:007 М:023,Zapadnaja Dvina,Moscow,,RU
+2014-08-30 20:15:00,Shvets,ЕССЕНТУКИ,МОСКВА КАЗАНСКАЯ,ПОЕ:003С В:004 М:020,Yessentuki,Moscow,RU,RU
+2012-07-04 18:53:00,Shvets,ЕССЕНТУКИ,МОСКВА КАЗАНСКАЯ,ПОЕ:003С В:010 М:012,Yessentuki,Moscow,RU,RU
+2010-11-27 08:10:00,Shvets,МОСКВА КАЗАНСКАЯ,ЕССЕНТУКИ,ПОЕ:004С В:010 М:009,Moscow,Yessentuki,RU,RU
+2010-11-23 19:08:00,Shvets,ЕССЕНТУКИ,МОСКВА КАЗАНСКАЯ,ПОЕ:003С В:010 М:026,Yessentuki,Moscow,RU,RU
+2009-11-17 08:20:00,Shvets,МОСКВА КАЗАНСКАЯ,ЕССЕНТУКИ,ПОЕ:004С В:005 М:006,Moscow,Yessentuki,RU,RU
+2009-11-16 22:53:00,Shvets,ЗАПАДНАЯ ДВИНА,МОСКВА РИЖСКАЯ,ПОЕ:662А В:007 М:017,Zapadnaja Dvina,Moscow,,RU
+2009-10-23 14:15:00,Shvets,ЕССЕНТУКИ,ТВЕРЬ,ПОЕ:049Ч В:014 М:014,Yessentuki,Tver,RU,RU
+2009-09-05 03:20:00,Shvets,НИЖНИЙ НОВГОРОД МОСКОВ,КАВКАЗСКАЯ,ПОЕ:309С В:012 М:036,Nizhniy Novgorod,Kavkazskaja,RU,
+2009-03-20 20:13:00,Shvets,МИНЕРАЛЬНЫЕ ВОДЫ,НИЖНИЙ НОВГОРОД МОСКОВ,ПОЕ:061Й В:025 М:016,Mineralnye Vody,Nizhniy Novgorod,RU,RU
+2007-06-26 08:38:00,Shvets,МОСКВА КАЗАНСКАЯ,ЕССЕНТУКИ,ПОЕ:004С В:013 М:030,Moscow,Yessentuki,RU,RU
+2007-06-25 22:53:00,Shvets,ЗАПАДНАЯ ДВИНА,МОСКВА РИЖСКАЯ,ПОЕ:662А В:003 М:003,Zapadnaja Dvina,Moscow,,RU
+2007-04-29 20:09:00,Shvets,МОСКВА РИЖСКАЯ,ЗАПАДНАЯ ДВИНА,ПОЕ:661А В:018 М:003,Moscow,Zapadnaja Dvina,RU,
+2006-06-29 22:19:00,Shvets,РОСТОВ-ГЛАВНЫЙ,ПЯТИГОРСК,ПОЕ:027М В:020 М:028,Rostov,Pyatigorsk,RU,RU
+2006-06-27 07:22:00,Shvets,ПЯТИГОРСК,РОСТОВ-ГЛАВНЫЙ,ПОЕ:829С В:002 М:031,Pyatigorsk,Rostov,RU,RU
+2005-05-10 16:50:00,Shvets,КИСЛОВОДСК,ТВЕРЬ,ПОЕ:049Ч В:012 М:030,Kislovodsk,Tver,RU,RU
+2020-12-07 05:05:00,Shvets,"АДЛЕР - СОЧИ, КРАСНОДАРСК","ДОМОДЕДОВО (МОСКВА), МОСК",2052-S7,Adler,Moscow,RU,RU
+2020-11-07 14:10:00,Shvets,"ШЕРЕМЕТЬЕВО (МОСКВА), МОС","АДЛЕР - СОЧИ, КРАСНОДАРСК",1124-SU,Moscow,Adler,RU,RU
+2020-05-07 16:55:00,Shvets,"КАЛИНИНГРАД (ХРАБРОВО), К","ШЕРЕМЕТЬЕВО (МОСКВА), МОС",1005-SU,Kaliningrad,Moscow,RU,RU
+2020-03-07 06:40:00,Shvets,"ШЕРЕМЕТЬЕВО (МОСКВА), МОС","КАЛИНИНГРАД (ХРАБРОВО), К",1000-SU,Moscow,Kaliningrad,RU,RU
+2019-12-07 11:40:00,Shvets,"ВЛАДИКАВКАЗ (БЕСЛАН), РЕС","ШЕРЕМЕТЬЕВО (МОСКВА), МОС",1043-SU,Vladikavkaz,Moscow,RU,RU
+2019-09-07 10:20:00,Shvets,"ДОМОДЕДОВО (МОСКВА), МОСК","ВЛАДИКАВКАЗ (БЕСЛАН), РЕС",881-GH,Moscow,Vladikavkaz,RU,RU
+2016-08-30 21:20:00,Shvets,"МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП","ВНУКОВО (МОСКВА), МОСКОВС",6068-SU,Mineralnye Vody,Moscow,RU,RU
+2016-08-30 09:40:00,Shvets,"ШЕРЕМЕТЬЕВО (МОСКВА), МОС","МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП",1310-SU,Moscow,Mineralnye Vody,RU,RU
+2014-07-12 10:10:00,Shvets,"МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП","ШЕРЕМЕТЬЕВО (МОСКВА), МОС",1311-SU,Mineralnye Vody,Moscow,RU,RU
+2014-10-23 08:35:00,Shvets,"МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП","ШЕРЕМЕТЬЕВО (МОСКВА), МОС",1305-SU 24C,Mineralnye Vody,Moscow,RU,RU
+2014-11-10 13:45:00,Shvets,"ШЕРЕМЕТЬЕВО (МОСКВА), МОС","МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП",1302-SU 30F,Moscow,Mineralnye Vody,RU,RU
+2012-10-26 17:35:00,Shvets,"ДОМОДЕДОВО (МОСКВА), МОСК","МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП",1215-С7,Moscow,Mineralnye Vody,RU,RU
+2012-10-15 14:05:00,Shvets,"МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП","ДОМОДЕДОВО (МОСКВА), МОСК",1214-С7,Mineralnye Vody,Moscow,RU,RU
+2012-03-06 11:45:00,Shvets,"ШЕРЕМЕТЬЕВО (МОСКВА), МОС","МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП",4370-SU,Moscow,Mineralnye Vody,RU,RU
+2012-06-05 08:10:00,Shvets,"МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП","ШЕРЕМЕТЬЕВО (МОСКВА), МОС",4371-SU,Mineralnye Vody,Moscow,RU,RU
+2007-04-29 16:25:00,Shvets,"МИНЕРАЛЬНЫЕ ВОДЫ, СТАВРОП","ВНУКОВО (МОСКВА), МОСКОВС",1230-МИ,Mineralnye Vody,Moscow,RU,RU
+2020-03-31 11:40:00,Lazarevich,ВЛАДИКАВКАЗ (БЕСЛАН),ШЕРЕМЕТЬЕВО (МОСКВА),1043-SU,Vladikavkaz,Moscow,RU,RU
+2020-03-29 07:50:00,Lazarevich,ШЕРЕМЕТЬЕВО (МОСКВА),ВЛАДИКАВКАЗ (БЕСЛАН),1042-SU,Moscow,Vladikavkaz,RU,RU
+2019-10-25 11:20:00,Lazarevich,РОСТОВ-НА-ДОНУ,ВНУКОВО (МОСКВА),104-DP,Rostov-Na-Donu,Moscow,,RU
+2019-10-23 07:30:00,Lazarevich,ШЕРЕМЕТЬЕВО (МОСКВА),РОСТОВ-НА-ДОНУ,1158-SU,Moscow,Rostov-Na-Donu,RU,
+2019-02-08 15:50:00,Lazarevich,ВИТЯЗЕВО (АНАПА),ДОМОДЕДОВО (МОСКВА),1124-GH,Anapa,Moscow,RU,RU
+2019-07-15 12:40:00,Lazarevich,ДОМОДЕДОВО (МОСКВА),ВИТЯЗЕВО (АНАПА),1123-GH,Moscow,Anapa,RU,RU
+2017-06-08 13:50:00,Lazarevich,ВИТЯЗЕВО (АНАПА),ВНУКОВО (МОСКВА),6206-SU,Anapa,Moscow,RU,RU
+2017-07-20 14:35:00,Lazarevich,ШЕРЕМЕТЬЕВО (МОСКВА),ВИТЯЗЕВО (АНАПА),1142-SU,Moscow,Anapa,RU,RU
+2013-10-09 19:25:00,Lazarevich,СОЧИ,ДОМОДЕДОВО,132-УН,Sochi,Moscow,RU,RU
+2013-07-14 12:30:00,Lazarevich,ВИТЯЗЕВО (АНАПА),ШЕРЕМЕТЬЕВО (МОСКВА),1547-SU,Anapa,Moscow,RU,RU
+2013-06-23 15:55:00,Lazarevich,ШЕРЕМЕТЬЕВО (МОСКВА),ВИТЯЗЕВО (АНАПА),1142-SU,Moscow,Anapa,RU,RU
+2012-08-28 18:20:00,Lazarevich,ВИТЯЗЕВО (АНАПА),ШЕРЕМЕТЬЕВО (МОСКВА),1143-SU,Anapa,Moscow,RU,RU
+2012-11-08 15:15:00,Lazarevich,ШЕРЕМЕТЬЕВО (МОСКВА),ВИТЯЗЕВО (АНАПА),1142-SU,Moscow,Anapa,RU,RU
+2009-08-16 20:30:00,Lazarevich,ПАШКОВСКАЯ,ВНУКОВО,131-ЮК,Pashkovskaja,Moscow,,RU
+2009-01-08 16:30:00,Lazarevich,ВНУКОВО,АНАПА,1264-МИ,Moscow,Anapa,RU,RU
+2008-06-29 13:15:00,Lazarevich,МУРМАНСК,ВНУКОВО,126-ЭХ,Murmansk,Moscow,RU,RU
+2008-06-25 12:45:00,Lazarevich,ВНУКОВО,МУРМАНСК,125-ЭХ,Moscow,Murmansk,RU,RU
+2019-11-15 09:40:00,Lazarevich,"НИЖНИЙ НОВГОРОД МОСКОВ, Н","МОСКВА КУРСКАЯ, МОСКВА (Р",ПОЕ:729Г В:001 М:016,Nizhniy Novgorod,Moscow,RU,RU
+2019-11-13 07:15:00,Lazarevich,"МОСКВА КУРСКАЯ, МОСКВА (Р","НИЖНИЙ НОВГОРОД МОСКОВ, Н",ПОЕ:728Г В:002 М:044,Moscow,Nizhniy Novgorod,RU,RU
+2018-09-26 15:48:00,Lazarevich,"СМОЛЕНСК ЦЕНТРАЛЬНЫЙ, СМО","МОСКВА БЕЛОРУССКАЯ, МОСКВ",ПОЕ:716М В:003 М:031,Smolensk,Moscow,RU,RU
+2015-01-06 13:40:00,Lazarevich,"САНКТ-ПЕТЕРБУРГ-ГЛАВН., С","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:765А В:020 М:034,Saint Petersburg,Moscow,RU,RU
+2015-04-24 15:08:00,Lazarevich,"СЕННАЯ, САРАТОВСКАЯ ОБЛ (","МОСКВА ПАВЕЛЕЦКАЯ, МОСКВА",ПОЕ:047Ж В:003 М:031,Sennaja,Moscow,,RU
+2015-04-20 14:06:00,Lazarevich,"МОСКВА ПАВЕЛЕЦКАЯ, МОСКВА","СЕННАЯ, САРАТОВСКАЯ ОБЛ (",ПОЕ:047Й В:016 М:035,Moscow,Sennaja,RU,
+2014-03-08 20:57:00,Lazarevich,"СОЧИ, КРАСНОДАРСКИЙ КРАЙ ","МОСКВА КАЗАНСКАЯ, МОСКВА ",ПОЕ:104Ж В:005 М:004,Sochi,Moscow,RU,RU
+2014-07-20 10:10:00,Lazarevich,"МОСКВА КАЗАНСКАЯ, МОСКВА ","СОЧИ, КРАСНОДАРСКИЙ КРАЙ ",ПОЕ:104В В:005 М:004,Moscow,Sochi,RU,RU
+2013-07-12 14:13:00,Lazarevich,"СМОЛЕНСК ЦЕНТРАЛЬНЫЙ, СМО","МОСКВА БЕЛОРУССКАЯ, МОСКВ",ПОЕ:132Б В:010 М:023,Smolensk,Moscow,RU,RU
+2013-09-27 22:59:00,Lazarevich,"СМОЛЕНСК ЦЕНТРАЛЬНЫЙ, СМО","МОСКВА БЕЛОРУССКАЯ, МОСКВ",ПОЕ:034Ж В:011 М:006,Smolensk,Moscow,RU,RU
+2013-09-09 10:10:00,Lazarevich,"МОСКВА КАЗАНСКАЯ, МОСКВА ","СОЧИ, КРАСНОДАРСКИЙ КРАЙ ",ПОЕ:104М В:003 М:003,Moscow,Sochi,RU,RU
+2008-05-25 19:00:00,Lazarevich,"ПЕТРОЗАВОДСК-ПАСС, КОСТРО","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:017А В:012 М:018,Petrozavodsk,Moscow,RU,RU
+2008-05-23 19:00:00,Lazarevich,"ПЕТРОЗАВОДСК-ПАСС, КОСТРО","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:017А В:011 М:003,Petrozavodsk,Moscow,RU,RU
+2008-05-18 18:25:00,Lazarevich,"МОСКВА ОКТЯБРЬСКАЯ, МОСКВ","ПЕТРОЗАВОДСК-ПАСС, КОСТРО",ПОЕ:018А В:011 М:018,Moscow,Petrozavodsk,RU,RU
+2008-05-14 22:00:00,Lazarevich,"САНКТ-ПЕТЕРБУРГ-ГЛАВН., С","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:029А В:007 М:004,Saint Petersburg,Moscow,RU,RU
+2008-05-13 23:59:00,Lazarevich,"МОСКВА ОКТЯБРЬСКАЯ, МОСКВ","САНКТ-ПЕТЕРБУРГ-ГЛАВН., С",ПОЕ:004А В:012 М:028,Moscow,Saint Petersburg,RU,RU
+2008-03-26 22:47:00,Lazarevich,"БРЯНСК ОРЛОВСКИЙ, БРЯНСКА","МОСКВА КИЕВСКАЯ, МОСКВА (",ПОЕ:142Л В:007 М:015,Bryansk,Moscow,RU,RU
+2008-03-25 23:50:00,Lazarevich,"МОСКВА КИЕВСКАЯ, МОСКВА (","БРЯНСК ОРЛОВСКИЙ, БРЯНСКА",ПОЕ:099Ч В:001 М:037,Moscow,Bryansk,RU,RU
+2008-03-19 16:35:00,Lazarevich,"ЯРОСЛАВЛЬ-ГЛАВНЫЙ, ЯРОСЛА","МОСКВА ЯРОСЛАВСКАЯ, МОСКВ",ПОЕ:827Ч В:005 М:024,Yaroslavl,Moscow,RU,RU
+2008-03-19 08:24:00,Lazarevich,"МОСКВА ЯРОСЛАВСКАЯ, МОСКВ","ЯРОСЛАВЛЬ-ГЛАВНЫЙ, ЯРОСЛА",ПОЕ:828В В:004 М:002,Moscow,Yaroslavl,RU,RU
+2008-12-03 22:18:00,Lazarevich,МИНСК-ПАССАЖИРСКИЙ (БЕЛАР,"МОСКВА БЕЛОРУССКАЯ, МОСКВ",ПОЕ:028Б В:011 М:026,Minsk,Moscow,BY,RU
+2008-11-03 23:44:00,Lazarevich,"МОСКВА БЕЛОРУССКАЯ, МОСКВ",МИНСК-ПАССАЖИРСКИЙ (БЕЛАР,ПОЕ:021Е В:013 М:006,Moscow,Minsk,RU,BY
+2007-10-30 16:35:00,Lazarevich,"ЯРОСЛАВЛЬ-ГЛАВНЫЙ, ЯРОСЛА","МОСКВА ЯРОСЛАВСКАЯ, МОСКВ",ПОЕ:827Ч В:005 М:010,Yaroslavl,Moscow,RU,RU
+2007-10-30 08:24:00,Lazarevich,"МОСКВА ЯРОСЛАВСКАЯ, МОСКВ","ЯРОСЛАВЛЬ-ГЛАВНЫЙ, ЯРОСЛА",ПОЕ:828В В:007 М:060,Moscow,Yaroslavl,RU,RU
+2007-12-06 15:05:00,Lazarevich,"САНКТ-ПЕТЕРБУРГ-ГЛАВН., С","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:813Ч В:007 М:039,Saint Petersburg,Moscow,RU,RU
+2007-12-06 15:05:00,Lazarevich,"САНКТ-ПЕТЕРБУРГ-ГЛАВН., С","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:813Ч В:007 М:039,Saint Petersburg,Moscow,RU,RU
+2007-10-06 01:05:00,Lazarevich,"МОСКВА ОКТЯБРЬСКАЯ, МОСКВ","САНКТ-ПЕТЕРБУРГ-ГЛАВН., С",ПОЕ:030А В:002 М:035,Moscow,Saint Petersburg,RU,RU
+2007-10-06 01:05:00,Lazarevich,"МОСКВА ОКТЯБРЬСКАЯ, МОСКВ","САНКТ-ПЕТЕРБУРГ-ГЛАВН., С",ПОЕ:030А В:002 М:035,Moscow,Saint Petersburg,RU,RU
+2006-09-05 00:56:00,Lazarevich,"САНКТ-ПЕТЕРБУРГ-ГЛАВН., С","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:119А В:011 М:012,Saint Petersburg,Moscow,RU,RU
+2006-06-05 01:55:00,Lazarevich,"МОСКВА КУРСКАЯ, МОСКВА (Р","САНКТ-ПЕТЕРБУРГ-ГЛАВН., С",ПОЕ:144О В:022 М:052,Moscow,Saint Petersburg,RU,RU
+2005-12-21 16:30:00,Lazarevich,"ЯРОСЛАВЛЬ-ГЛАВНЫЙ, ЯРОСЛА","МОСКВА ЯРОСЛАВСКАЯ, МОСКВ",ПОЕ:827Ч В:007 М:036,Yaroslavl,Moscow,RU,RU
+2005-12-21 08:23:00,Lazarevich,"МОСКВА ЯРОСЛАВСКАЯ, МОСКВ","ЯРОСЛАВЛЬ-ГЛАВНЫЙ, ЯРОСЛА",ПОЕ:828В В:006 М:073,Moscow,Yaroslavl,RU,RU
+2019-11-15 09:40:00,Lazarevich,"НИЖНИЙ НОВГОРОД МОСКОВ, Н","МОСКВА КУРСКАЯ, МОСКВА (Р",ПОЕ:729Г В:002 М:034,Nizhniy Novgorod,Moscow,RU,RU
+2019-11-13 07:15:00,Lazarevich,"МОСКВА КУРСКАЯ, МОСКВА (Р","НИЖНИЙ НОВГОРОД МОСКОВ, Н",ПОЕ:728Г В:002 М:028,Moscow,Nizhniy Novgorod,RU,RU
+2018-09-26 15:48:00,Lazarevich,"СМОЛЕНСК ЦЕНТРАЛЬНЫЙ, СМО","МОСКВА БЕЛОРУССКАЯ, МОСКВ",ПОЕ:716М В:003 М:031,Smolensk,Moscow,RU,RU
+2015-01-06 13:40:00,Lazarevich,"САНКТ-ПЕТЕРБУРГ-ГЛАВН., С","МОСКВА ОКТЯБРЬСКАЯ, МОСКВ",ПОЕ:765А В:020 М:034,Saint Petersburg,Moscow,RU,RU
+2015-04-24 15:08:00,Lazarevich,"СЕННАЯ, САРАТОВСКАЯ ОБЛ (","МОСКВА ПАВЕЛЕЦКАЯ, МОСКВА",ПОЕ:047Ж В:003 М:031,Sennaja,Moscow,,RU
+2015-04-20 14:06:00,Lazarevich,"МОСКВА ПАВЕЛЕЦКАЯ, МОСКВА","СЕННАЯ, САРАТОВСКАЯ ОБЛ (",ПОЕ:047Й В:016 М:035,Moscow,Sennaja,RU,
+2014-03-08 20:57:00,Lazarevich,"СОЧИ, КРАСНОДАРСКИЙ КРАЙ ","МОСКВА КАЗАНСКАЯ, МОСКВА ",ПОЕ:104Ж В:005 М:004,Sochi,Moscow,RU,RU
+2014-07-20 10:10:00,Lazarevich,"МОСКВА КАЗАНСКАЯ, МОСКВА ","СОЧИ, КРАСНОДАРСКИЙ КРАЙ ",ПОЕ:104В В:005 М:004,Moscow,Sochi,RU,RU
+2013-07-12 14:13:00,Lazarevich,"СМОЛЕНСК ЦЕНТРАЛЬНЫЙ, СМО","МОСКВА БЕЛОРУССКАЯ, МОСКВ",ПОЕ:132Б В:010 М:023,Smolensk,Moscow,RU,RU
+2020-08-11 00:00:00,Kalashnikov,St. Petersburg,Moscow,Train,Saint Petersburg,Moscow,RU,RU
+2020-07-11 00:00:00,Kalashnikov,Moscow,St. Petersburg,Train,Moscow,Saint Petersburg,RU,RU
+2020-02-10 00:00:00,Kalashnikov,Omsk,Moscow,,Omsk,Moscow,RU,RU
+2020-09-29 00:00:00,Kalashnikov,Moscow,Omsk,,Moscow,Omsk,RU,RU
+2020-08-26 00:00:00,Kalashnikov,Omsk,Moscow,,Omsk,Moscow,RU,RU
+2020-08-25 00:00:00,Kalashnikov,Moscow,Omsk,,Moscow,Omsk,RU,RU
+2019-08-30 11:50:00,Kalashnikov,"СИМФЕРОПОЛЬ, РЕСПУБЛИКА К","ШЕРЕМЕТЬЕВО (МОСКВА), МОС",6142-SU,Simferopol,Moscow,UA,RU
+2019-08-19 08:25:00,Kalashnikov,"ШЕРЕМЕТЬЕВО (МОСКВА), МОС","СИМФЕРОПОЛЬ, РЕСПУБЛИКА К",6151-SU,Moscow,Simferopol,RU,UA
+2018-12-08 17:30:00,Kalashnikov,"ВИТЯЗЕВО (АНАПА), КРАСНОД","ДОМОДЕДОВО (МОСКВА), МОСК",1124-S7,Anapa,Moscow,RU,RU
+2018-07-26 10:40:00,Kalashnikov,"ВНУКОВО (МОСКВА), МОСКОВC","ВИТЯЗЕВО (АНАПА), КРАСНОД",6131-SU,Moscow,Anapa,RU,RU
+2017-08-24 14:10:00,Kalashnikov,"ВИТЯЗЕВО (АНАПА), КРАСНОД","ВНУКОВО (МОСКВА), МОСКОВС",460-UT,Anapa,Moscow,RU,RU
+2017-10-08 12:30:00,Kalashnikov,"ВНУКОВО (МОСКВА), МОСКОВС","ВИТЯЗЕВО (АНАПА), КРАСНОД",6205-SU,Moscow,Anapa,RU,RU
+2016-08-27 11:40:00,Kalashnikov,"ВИТЯЗЕВО (АНАПА), КРАСНОД","ДОМОДЕДОВО (МОСКВА), МОСК",1126-S7,Anapa,Moscow,RU,RU
+2016-08-15 11:00:00,Kalashnikov,"ДОМОДЕДОВО (МОСКВА), МОСК","ВИТЯЗЕВО (АНАПА), КРАСНОД",581-6R,Moscow,Anapa,RU,RU
+2015-09-16 16:45:00,Kalashnikov,"СИМФЕРОПОЛЬ, РЕСПУБЛИКА К","ДОМОДЕДОВО (МОСКВА), МОСК",166-S7,Simferopol,Moscow,UA,RU
+2015-03-09 15:20:00,Kalashnikov,"ДОМОДЕДОВО (МОСКВА), МОСК","СИМФЕРОПОЛЬ, РЕСПУБЛИКА К",2897-U6,Moscow,Simferopol,RU,UA
+2015-05-20 16:55:00,Kalashnikov,"КАЛИНИНГРАД (ХРАБРОВО), К","ДОМОДЕДОВО (МОСКВА), МОСК",68-GH,Kaliningrad,Moscow,RU,RU
+2015-05-18 14:00:00,Kalashnikov,"ДОМОДЕДОВО (МОСКВА), МОСК","КАЛИНИНГРАД (ХРАБРОВО), К",67-GH,Moscow,Kaliningrad,RU,RU
+2015-05-18 14:00:00,Kalashnikov,"ДОМОДЕДОВО (МОСКВА), МОСК","КАЛИНИНГРАД (ХРАБРОВО), К",67-GH 16B,Moscow,Kaliningrad,RU,RU
+2015-09-03 13:00:00,Kalashnikov,"АДЛЕР - СОЧИ, КРАСНОДАРСК","ДОМОДЕДОВО (МОСКВА), МОСК",118-НН,Adler,Moscow,RU,RU
+2015-09-03 10:00:00,Kalashnikov,"АДЛЕР - СОЧИ, КРАСНОДАРСК","ДОМОДЕДОВО (МОСКВА), МОСК",118-NN,Adler,Moscow,RU,RU
+2015-02-22 08:40:00,Kalashnikov,"ВНУКОВО (МОСКВА), МОСКОВС","АДЛЕР - СОЧИ, КРАСНОДАРСК",249-UT 19A,Moscow,Adler,RU,RU
+2013-09-17 19:25:00,Kalashnikov,"АДЛЕР - СОЧИ, КРАСНОДАРСК","ДОМОДЕДОВО (МОСКВА), МОСК",132-УН,Adler,Moscow,RU,RU
+2011-02-18 15:55:00,Kalashnikov,"ШЕРЕМЕТЬЕВО (МОСКВА), МОС","АДЛЕР - СОЧИ, КРАСНОДАРСК",867-SU,Moscow,Adler,RU,RU
+2011-02-17 20:10:00,Kalashnikov,"АДЛЕР - СОЧИ, КРАСНОДАРСК","ДОМОДЕДОВО (МОСКВА), МОСК",1028-С7,Adler,Moscow,RU,RU
+2008-03-29 13:20:00,Kalashnikov,"АДЛЕР - СОЧИ, КРАСНОДАРСК","ВНУКОВО (МОСКВА), МОСКОВС",364-ПЛ,Adler,Moscow,RU,RU
+2008-03-15 09:20:00,Kalashnikov,"ВНУКОВО (МОСКВА), МОСКОВС","АДЛЕР - СОЧИ, КРАСНОДАРСК",363-ПЛ,Moscow,Adler,RU,RU
+2007-08-09 12:30:00,Kalashnikov,"АДЛЕР - СОЧИ, КРАСНОДАРСК","ВНУКОВО (МОСКВА), МОСКОВС",340-ДД,Adler,Moscow,RU,RU
+2007-08-25 17:05:00,Kalashnikov,"ВНУКОВО (МОСКВА), МОСКОВС","АДЛЕР - СОЧИ, КРАСНОДАРСК",225-ЭХ,Moscow,Adler,RU,RU
+2019-12-10 19:28:00,Kalashnikov,САНКТ-ПЕТЕРБУРГ-ГЛАВН.,МОСКВА ОКТЯБРЬСКАЯ,ПОЕ:775А В:014 М:066,Saint Petersburg,Moscow,RU,RU
+2019-10-10 09:40:00,Kalashnikov,МОСКВА ОКТЯБРЬСКАЯ,САНКТ-ПЕТЕРБУРГ-ГЛАВН.,ПОЕ:760А В:004 М:014,Moscow,Saint Petersburg,RU,RU
+2019-10-10 09:40:00,Kalashnikov,МОСКВА ОКТЯБРЬСКАЯ,САНКТ-ПЕТЕРБУРГ-ГЛАВН.,ПОЕ:760А В:004 М:014,Moscow,Saint Petersburg,RU,RU
+2019-08-17 21:10:00,Kalashnikov,ПЕТРОЗАВОДСК-ПАСС,МОСКВА ОКТЯБРЬСКАЯ,ПОЕ:091А В:003 М:028,Petrozavodsk,Moscow,RU,RU
+2019-08-14 19:50:00,Kalashnikov,МОСКВА ОКТЯБРЬСКАЯ,ПЕТРОЗАВОДСК-ПАСС,ПОЕ:092А В:006 М:024,Moscow,Petrozavodsk,RU,RU
+2019-02-06 17:25:00,Kalashnikov,КОВРОВ 1,МОСКВА КУРСКАЯ,ПОЕ:705Н В:011 М:036,Kovrov,Moscow,RU,RU
+2019-01-06 09:30:00,Kalashnikov,МОСКВА КУРСКАЯ,КОВРОВ 1,ПОЕ:730Г В:003 М:065,Moscow,Kovrov,RU,RU
+2019-10-03 16:24:00,Kalashnikov,ОКУЛОВКА,МОСКВА ОКТЯБРЬСКАЯ,ПОЕ:767А В:003 М:028,Okulovka,Moscow,,RU
+2019-08-03 09:40:00,Kalashnikov,МОСКВА ОКТЯБРЬСКАЯ,БОЛОГОЕ-МОСКОВСКОЕ,ПОЕ:760А В:003 М:015,Moscow,Bologoye,RU,RU
+2018-08-09 15:00:00,Kalashnikov,САНКТ-ПЕТЕРБУРГ-ГЛАВН.,МОСКВА ОКТЯБРЬСКАЯ,ПОЕ:769А В:006 М:011,Saint Petersburg,Moscow,RU,RU
+2018-05-09 09:40:00,Kalashnikov,МОСКВА ОКТЯБРЬСКАЯ,САНКТ-ПЕТЕРБУРГ-ГЛАВН.,ПОЕ:760А В:003 М:047,Moscow,Saint Petersburg,RU,RU
+2013-09-09 10:10:00,Kalashnikov,МОСКВА КАЗАНСКАЯ,СОЧИ,ПОЕ:104М В:003 М:004,Moscow,Sochi,RU,RU
+2013-08-29 20:37:00,Kalashnikov,ТУАПСЕ-ПАСС,МОСКВА КАЗАНСКАЯ,ПОЕ:102С В:010 М:029,Tuapse,Moscow,RU,RU
+2013-10-08 10:20:00,Kalashnikov,МОСКВА КАЗАНСКАЯ,ТУАПСЕ-ПАСС,ПОЕ:102М В:011 М:033,Moscow,Tuapse,RU,RU
+2011-04-07 08:48:00,Kalashnikov,ЕЙСК,МОСКВА КУРСКАЯ,ПОЕ:232С В:010 М:005,Yeysk,Moscow,RU,RU
+2011-06-19 00:15:00,Kalashnikov,МОСКВА КУРСКАЯ,ЕЙСК,ПОЕ:231С В:010 М:015,Moscow,Yeysk,RU,RU
+2011-02-03 18:12:00,Kalashnikov,СОЧИ,МОСКВА КАЗАНСКАЯ,ПОЕ:102С В:004 М:015,Sochi,Moscow,RU,RU
+2011-09-02 10:10:00,Kalashnikov,МОСКВА КАЗАНСКАЯ,СОЧИ,ПОЕ:102М В:004 М:015,Moscow,Sochi,RU,RU
+2006-09-15 18:41:00,Kalashnikov,СЕВАСТОПОЛЬ,МОСКВА КУРСКАЯ,ПОЕ:234П В:002 М:028,Sevastopol,Moscow,UA,RU
+2006-08-31 15:12:00,Kalashnikov,МОСКВА КУРСКАЯ,СЕВАСТОПОЛЬ,ПОЕ:233М В:013 М:008,Moscow,Sevastopol,RU,UA
